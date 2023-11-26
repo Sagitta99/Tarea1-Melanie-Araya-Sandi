@@ -1,0 +1,8 @@
+.container{
+  width: 100%;
+  text-align: center;
+}
+
+li{
+  list-style-type: none;
+}

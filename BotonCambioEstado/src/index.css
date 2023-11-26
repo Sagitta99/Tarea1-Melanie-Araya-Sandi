@@ -1,0 +1,9 @@
+.container{
+  width: 100%;
+  text-align: center;
+}
+
+button{
+  background-color: rgb(56, 61, 59);
+  color: bisque;
+}
